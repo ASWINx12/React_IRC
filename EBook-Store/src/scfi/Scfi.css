@@ -1,0 +1,54 @@
+/* ProductPage.css */
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+.bgmi{
+    background-image: url("./asset7\(1\).jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .product-container {
+    background-color: rgb(182, 166, 166);
+    display: flex;
+    align-items: center;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    color: gold;
+    width: 97%; 
+    box-sizing: border-box; 
+    /* margin-left: ; */
+  }
+  .product-image {
+    width: 620px;
+    margin-right: 20px;
+    height: 400px;
+    border-radius: 20px;
+  }
+  .product-details {
+    margin-left: 5%;
+  }
+  .product-details p {
+    color: black;
+  }
+  .product-details button{
+    margin-left: 35%;
+  }
+  .product-details p{
+    text-indent: 20px;
+    line-height: 1.5;
+    font-size: larger;
+    font-family: 'Oswald';
+    letter-spacing: 2px;
+  }
+  .buy-button {
+    background-color: #00eb08;
+    color: rgb(0, 0, 0);
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    text-decoration: solid;
+  }
+  .buy-button:hover {
+    background-color: #45a049;
+  }

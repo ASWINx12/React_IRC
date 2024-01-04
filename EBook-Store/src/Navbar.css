@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+body{
+   font-family:'Oswald';
+}
+.navi {
+    background-color: #000000; 
+   padding: 20px;
+   font-family:'Oswald';
+ }
+ 
+ nav ul {
+   list-style-type: none;
+   margin: 0;
+   padding: 0;
+ }
+ 
+ nav ul li {
+   display: inline;
+   margin-right: 100px;
+ }
+ 
+ nav ul li .blink {
+   color: rgb(255, 255, 255);
+   text-decoration: none;
+   font-weight: 800;
+   word-spacing: 10px;
+ }
+ nav ul li a:hover{
+   text-decoration:none;
+   color:rgb(255, 196, 0)
+ }

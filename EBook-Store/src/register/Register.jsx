@@ -16,7 +16,7 @@ const Register = () =>
                 <input type="email" placeholder="Email-ID" required></input><br/>
                 <input type="password" placeholder="Password"required></input><br/>
                 <input type="password" placeholder="Confirm Password"required></input><br/>
-                <label><input type="checkbox" required />I agree to the Terms and Conditions</label>
+                <br/>
                 <button type='submit'>Sign-Up</button>
             </form>
         </div>

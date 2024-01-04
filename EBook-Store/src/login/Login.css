@@ -1,11 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+ body {
+    background-image: url("./asset-07.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 30vh;
+    width: 100vw;
+    background-position: center;
+    backdrop-filter: blur(100%);
+    margin-bottom: 900px;
+}   
 .user{
+    
+    margin-left: 35%;
+    margin-top: 10%;
     width: 350px;
-    border: 2px solid rgba(255, 252, 252, 0.664);
-    box-shadow: 0px 0px 20px 10px rgb(248, 168, 63);
-    border-radius: 250px;
-    padding: 20px 10px;
+    border: 2px solid rgba(0, 0, 0, 0.664);
+    box-shadow: 0px 5px 20px 10px rgb(124, 0, 0);
+    border-radius: 100px;
+    padding: 10px 10px;
     text-align: center; 
-    backdrop-filter: blur(100px);
+    backdrop-filter: blur(90px);
     background-color: rgb(255, 255, 255);
     opacity: 90%;
 }.user form{
@@ -24,10 +38,10 @@
     color:rgb(0, 0, 0);
 }
 .user button{
-        border-radius: 20px;
+    border-radius: 20px;
 }
 .user button:hover{
-        background-color: rgb(253, 199, 82);
+    background-color: rgb(253, 199, 82);
 }
 .user input{
     border-radius: 100px;

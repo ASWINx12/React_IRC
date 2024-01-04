@@ -1,0 +1,22 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Courgette&family=Montserrat&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+.body1{
+    /* background :linear-gradient(90deg,#868F96  0%, #596164 80%); */
+    /* background-image: url("./asset7\(1\).jpg"); */
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align:center;
+    font-family: 'Oswald', cursive;
+    font-size: xx-large;
+    padding-top: 10%;
+    padding-bottom: 50%;
+    margin-bottom: 200px;
+    height: 3vh;
+    width: 100vw;
+    color: rgb(255, 255, 255);
+    overflow: hidden;
+    letter-spacing: 1px;
+}
+.body1 h1{
+    margin-top: -70px;
+}
