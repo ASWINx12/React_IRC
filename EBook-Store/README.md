@@ -1,4 +1,4 @@
-# CODEX Project: eBook Store Website
+# eBook Store Website Project: CODEX
 
 ## Introduction
 
